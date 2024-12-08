@@ -1,0 +1,10 @@
+Language: Python
+
+
+Libraries Required:
+
+streamlit
+pandas
+numpy
+scikit-learn
+xgboost
